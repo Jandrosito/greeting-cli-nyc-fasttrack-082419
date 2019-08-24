@@ -1,5 +1,6 @@
 # code the #greeting method here!
 
+greeting("Bobby")
 def greeting(name)
-  put "Hello, " + name"
+  return "Hello, " + name"
 end
