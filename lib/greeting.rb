@@ -4,5 +4,6 @@
 greeting("Bobby")
 
 def greeting(name)
+  name = name.strip
   return "Hello, " + name"
 end
